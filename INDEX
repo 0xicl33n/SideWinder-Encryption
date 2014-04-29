@@ -1,0 +1,18 @@
+Folders:
+old is broken and unstable stuff
+rc are working versions/demos
+unstable are snippts / soon to be new features
+
+
+
+Files:                                            ______________________
+-------------------------------------------------/                      \
+side2 is working copy if the last build (with a part way working cipher)
+sidedev.py is a non working copy usually
+test.py has constant changes being made to it and wont work at all
+v is the logo and version placeholder
+cipher.bak is a backup of the original cipher
+changelog describes changes
+TODO is what needs to be done still
+CHANGELOG is where changes are posted
+--------------------------------------------------------------------------
